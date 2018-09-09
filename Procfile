@@ -1,0 +1,1 @@
+web: gunicorn dailybook.wsgi
